@@ -31,7 +31,7 @@ Customize.CaptureAllTextures = false        -- true = all textures, false = text
 -- 2) Dashboard -> Tokens -> Create Token -> type "Images" -> copy it below
 Customize.FiveManage = {
     Enabled     = false,        -- set to true once ApiKey is filled in
-    ApiKey      = 'hBsF5IEcKsp3YbXvy5ApxMPqtoXrKZMu',           -- your FiveManage API token
+    ApiKey      = 'fivemagange_api_key',           -- your FiveManage API token
     Folder      = 'clothing',   -- folder/path on FiveManage to upload into
     DeleteLocal = false,         -- delete the local shots/*.png once it's safely on the CDN
 }
